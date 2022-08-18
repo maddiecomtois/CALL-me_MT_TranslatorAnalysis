@@ -1,0 +1,13 @@
+,lang,translator,BLEU in,TER in,CHRF in,BLEU out,TER out,CHRF out
+0,en-us->de,microsoft,0.23,0.654,0.535,0.23,0.654,0.535
+1,de->en-us,microsoft,0.406,0.437,0.656,0.406,0.437,0.656
+2,en-us->cs,microsoft,0.161,0.781,0.475,0.161,0.781,0.475
+3,cs->en-us,microsoft,0.277,0.557,0.596,0.277,0.557,0.596
+4,en-us->ru,microsoft,0.278,0.607,0.591,0.278,0.607,0.591
+5,ru->en-us,microsoft,0.338,0.507,0.655,0.338,0.507,0.655
+6,en-us->zh-cn,microsoft,0.0,1.0,0.374,0.0,1.0,0.374
+7,zh-cn->en-us,microsoft,0.243,0.657,0.556,0.243,0.657,0.556
+8,en-us->ja,microsoft,0.0,1.2,0.378,0.0,1.2,0.378
+9,ja->en-us,microsoft,0.123,0.965,0.387,0.123,0.965,0.387
+10,de->fr,microsoft,0.326,0.477,0.608,0.326,0.477,0.608
+11,fr->de,microsoft,0.463,0.449,0.731,0.463,0.449,0.731
